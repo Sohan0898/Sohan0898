@@ -1,4 +1,4 @@
-<a href="www.linkedin.com/in/shuhanur0898">
+<a href="www.linkedin.com/in/shuhanur0898/">
 <img src="https://raw.githubusercontent.com/Sohan0898/Sohan0898/main/Blue%20Tosca%20Geometric%20Technology%20Linkedln%20Banner%20(2000%20x%20900%20px).png" />
 </a>
 
@@ -21,20 +21,22 @@
 
 <br />
 
-## :computer: Technologies that I know
+## :computer: Technologies I know
 
 <br>
-<p align="center"> <a href="https://expressjs.com"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/"  rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,firebase,netlify,vercel,materialui&perline=6" />
+  </a>
+</p>
 <br/>
 
 ## :eyes: Current overview
 
-
-### 🔭 I’m working - In project Contest Hub. 
-### 🌱 I’m exploring - Node.js and MongoDB. 
-### 👯 I’m looking - To collaborate on open source projects. 
-### 🤔 I’m trying - To learn more technology on react. 
-
+### 🔭 I’m working - On the project [Contest-Hub](https://github.com/Sohan0898/Contest-hub-client).
+### 🌱 I’m exploring - Nodejs, Express and MongoDB. 
+### 👯 I’m looking - To collaborate on open-source projects. 
+### 🤔 I’m trying - To learn more technology on React. 
 
 <br />
 
