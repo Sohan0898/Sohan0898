@@ -9,6 +9,12 @@
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Sohan0898&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=00FFFC&sideLabels=1034BF&currStreakNum=00FFFC&ring=00FFFC&currStreakLabel=00FFFC&sideNums=1034BF" />
 </p>
 
+<br/>
+
+<p align="center"><img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohan0898&theme=react&hide_border=true&background=0D1117&show_icons=true&locale=en&layout=compact" alt="sohan0898" /></p>
+
+<br />
+
 ## :mailbox: Reach me out
 
 <br />
@@ -31,6 +37,8 @@
 </p>
 <br/>
 
+
+
 ## :eyes: Current overview
 
 ### 🔭 I’m working - On the project [Contest-Hub](https://github.com/Sohan0898/Contest-hub-client).
@@ -39,4 +47,11 @@
 ### 🤔 I’m trying - To learn more technology on React. 
 
 <br />
+
+## :chart_with_upwards_trend: Status
+
+<br />
+<p align="center">
+  <img width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sohan0898&theme=transparent" />
+</p>
 
