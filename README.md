@@ -38,42 +38,6 @@
 <br/>
 
 
-##  📽️ Latest Project
-<br />
-
-###  1. Contest hub-A areana of contest
-###  Features :
-- All types of contests are on one platform.
-- Users can be contest creators and participate in contests.
-- Admin can manage users and contests (approved, deleted, updated).
-### Technology : 
-Reactsjs, react-router dom, material-ui, nodejs, express, mongodb database.
-###  [Live-Site](https://contest-hub-8311c3.netlify.app/) || [Client-repo](https://github.com/Sohan0898/Contest-hub-client) || [Server-repo](https://github.com/Sohan0898/Contest-hub-server)
-
-<br />
-
-###  2. Foodie Feast-A Restaurant Management
-###  Features :
-- Users add new items with creator details automatically included.
-- Visually appealing card layout for easy food exploration.
-- Order and confirm with auto-filled buyer information and instant alerts.
-### Technology : 
-Reactsjs, react-router dom, node js, express, MongoDB database.
-###  [Live-Site](https://foodie-feast-dfc47a.netlify.app/) || [Client-repo](https://github.com/Sohan0898/restaurant-management-cilent) || [Server-repo](https://github.com/Sohan0898/restaurant-management-server)
-
-<br />
-
-###  3. FusionX - A Automative Brand Shop
-###  Features :
-- User Registration and Login: Users can create accounts with email and password or through additional log in options like Google.
-- Product Management: Users can add and update automotive products with details such as images, names, brands, types, prices, and ratings.
-- Brand Management: Products are organized by automotive brands, enabling users to view brand-specific product collection
-### Technology : 
-Reactsjs, react-router dom, node js, express, MongoDB database.
-###  [Live-Site](https://fusionx-e952e8.netlify.app) || [Client-repo](https://github.com/Sohan0898/automative-client) || [Server-repo](https://github.com/Sohan0898/automative-server)
-
-<br />
-
 ## :eyes: Current overview
 
 ### 🔭 I’m working - On the project [Contest-Hub](https://github.com/Sohan0898/Contest-hub-client).
@@ -89,4 +53,6 @@ Reactsjs, react-router dom, node js, express, MongoDB database.
 <p align="center">
   <img width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sohan0898&theme=transparent" />
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohan0898&label=Profile%20views&color=0e75b6&style=flat" alt="sohan0898" /> </p>
 
