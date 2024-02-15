@@ -2,6 +2,14 @@
 <img src="https://raw.githubusercontent.com/Sohan0898/Sohan0898/main/Blue%20Tosca%20Geometric%20Technology%20Linkedln%20Banner%20(2000%20x%20900%20px).png" />
 </a>
 
+<br/>
+
+##
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohan0898&label=Profile%20views&color=0e75b6&style=flat" alt="sohan0898" /> </p>
+
+<br/>
+
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
@@ -54,5 +62,5 @@
   <img width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sohan0898&theme=transparent" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohan0898&label=Profile%20views&color=0e75b6&style=flat" alt="sohan0898" /> </p>
+
 
